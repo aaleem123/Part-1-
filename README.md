@@ -69,5 +69,4 @@ d3251869a5ff: Pushed
 v1.0: digest: sha256:78fb0a12e53415d470e38576f3ed40fa49324dd29c14c82cd90d3c36e407106f size: 1370
 
   
-  Successful pushed:
-  Docker Pull Command:  docker pull aaleem1993/newapp  
+
